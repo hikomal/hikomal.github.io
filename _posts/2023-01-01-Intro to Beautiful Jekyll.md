@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: post
 title: Intro to Beautiful Jekyll
+subtitle: thanks to Dean Attali with this awesome templete
+mathjax: true
 ---
+
 
 # Beautiful Jekyll
 
