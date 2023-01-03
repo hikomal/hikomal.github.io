@@ -13,7 +13,7 @@ layout: img
 
   <!-- Thumbnail -->
   <section id="thumbnails">
-	{% assign images = site.static_files | where: "extname", ".jpg" %}
+	{% assign images = site.static_files | where: "extname", ".JPG" %}
     {% for image in images %}
         <article>
           <a class="thumbnail" href="/gallery/{{ image.name }}"><img src="/gallery/{{ image.name }}" alt="{{ image.basename }}" /></a>
