@@ -36,7 +36,7 @@ avatar: "/static/imgs/avatar.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+# title-img: "/static/imgs/apple-touch-icon.png"
 
 # --- Footer options --- #
 
@@ -45,24 +45,25 @@ avatar: "/static/imgs/avatar.png"
 author:
   name: Wenhao (Reself) Chai
   email: "reselfchai@gmail.com"
-  github: rese1f    # eg. daattali
-  # linkedin: rdesh26
-  # twitter: rdesh26
+  github: rese1f
+  linkedin: wenhao-chai-658274238
+  twitter: re5e1f
+  instagram: rese1f
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: false
+  twitter: true
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
-  instagram: false
+  instagram: true
   youtube: false
   spotify: false
   telephone: false
@@ -97,12 +98,12 @@ excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+title-separator: "|"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/New_York"
+timezone: "America/Seattle"
 markdown: kramdown
 mathjax: true
 highlighter: rouge
