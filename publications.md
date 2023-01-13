@@ -9,8 +9,12 @@ You can also browse my <a href="https://scholar.google.com/citations?user=SL--7U
 **2023**
 
 - three papers are under reviewed (CVPR, ICME, IEEE T-AI)
-- four papers in prograss
-  <!-- mpm, motjd, diffbag, synthetic-->
+- five papers in prograss
+  - 3D human pose estimation
+  - image generation based on diffusion model
+  - unsupervised multi-object tracking
+  - unsupervised domain adaptation for semantic segmentation
+  - sythetic dataset and applied CV/DL algorithms
 
 **2022**
 
