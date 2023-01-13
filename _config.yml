@@ -26,7 +26,7 @@ navbar-links:
   Home: ""
   Publications: "publications"
   Blog: "blog"
-  Travel Map: "map"
+  # Travel Map: "map"
   Resume: "resume"
   Gallery: "gallery"
 
