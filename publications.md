@@ -3,18 +3,17 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
-<br /> 
+Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 
 **2023**
 
-- three papers are under reviewed (CVPR, ICME, IEEE T-AI)
-- five papers in prograss
-  - 3D human pose estimation
-  - image generation based on diffusion model
+- three papers are under reviewed (*CVPR, ICME, IEEE T-AI)
+- five papers are in progress
+  - large-scale joint 2D/3D human pose estimation
+  - style transfer based on diffusion model
   - unsupervised multi-object tracking
   - unsupervised domain adaptation for semantic segmentation
-  - sythetic dataset and applied CV/DL algorithms
+  - *sythetic dataset and applied CV/DL algorithms
 
 **2022**
 
@@ -49,3 +48,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=SL--7U
   <a href="https://scholar.google.com/citations?user=GhsXNiwAAAAJ&hl=en&oi=ao">Gaoang Wang</a>$$^‡$$  
   *Applied Sciences*  
   [`Paper`](https://www.mdpi.com/2076-3417/12/13/6588)
+
+$*$ for (joint) first author  
+$‡$ for corresponding author
