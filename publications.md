@@ -5,7 +5,7 @@ title: Publications
 
 Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 
-**2023**
+<!-- **2023**
 
 - three papers are under reviewed ($^1$CVPR, ICME, IEEE T-AI)
 - six papers are in progress
@@ -14,7 +14,7 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
   - style transfer based on diffusion model
   - unsupervised multi-object tracking
   - unsupervised domain adaptation for semantic segmentation
-  - $^*$sythetic 3D vision dataset and applied CV/DL algorithms
+  - $^*$sythetic 3D vision dataset and applied CV/DL algorithms -->
 
 **2022**
 
