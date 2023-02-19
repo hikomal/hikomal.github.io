@@ -7,9 +7,9 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 
 **2023**
 
-- **[Arxiv] DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models**   
+- **DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models**   
   Shidong Cao$$^*$$,
-  Wenhao Chai$$^*$$,
+  **Wenhao Chai**$$^*$$,
   Shengyu Hao,
   Yanting Zhang,
   Hangyue Chen$$^‡$$,
