@@ -5,16 +5,17 @@ title: Publications
 
 Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 
-<!-- **2023**
+**2023**
 
-- three papers are under reviewed ($^1$CVPR, ICME, IEEE T-AI)
-- six papers are in progress
-  - large-scale joint 2D/3D human pose estimation
-  - 2D human pose estimation with confidence score
-  - style transfer based on diffusion model
-  - unsupervised multi-object tracking
-  - unsupervised domain adaptation for semantic segmentation
-  - $^*$sythetic 3D vision dataset and applied CV/DL algorithms -->
+- **[Arxiv] DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models**   
+  Shidong Cao$$^*$$,
+  Wenhao Chai$$^*$$,
+  Shengyu Hao,
+  Yanting Zhang,
+  Hangyue Chen$$^‡$$,
+  Gaoang Wang$$^‡$$   
+  [`paper`](https://arxiv.org/abs/2302.06826)
+  [`code`](https://github.com/Rem105-210/DiffFashion)
 
 **2022**
 
