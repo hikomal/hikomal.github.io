@@ -8,7 +8,8 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 **2023**
 
 - **Deep Learning Methods for Small Molecule Drug Discovery: A Survey**  
-  Wenhao Hu$$^*$$, Yingying Liu$$^*$$, Xuanyu Chen, **Wenhao Chai**, Hangyue Chen, Hongwei Wang$$^\dagger$$, Gaoang Wang$$^\dagger$$
+  Wenhao Hu$$^*$$, Yingying Liu$$^*$$, Xuanyu Chen, **Wenhao Chai**, Hangyue Chen, Hongwei Wang$$^\dagger$$, Gaoang Wang$$^\dagger$$   
+  [`paper`](https://arxiv.org/abs/2303.00313)
 
 - **DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models**   
   Shidong Cao$$^*$$, **Wenhao Chai**$$^*$$, Shengyu Hao, Yanting Zhang, Hangyue Chen$$^\dagger$$, Gaoang Wang$$^\dagger$$   
