@@ -38,4 +38,4 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
   [`paper`](https://www.mdpi.com/2076-3417/12/13/6588)
 
 $*$ joint first author  
-$^\dagger$ corresponding author
+$\dagger$ corresponding author
