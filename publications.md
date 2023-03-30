@@ -9,6 +9,7 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 
 - **Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation**   
   **Wenhao Chai**, Zhongyu Jiang, Jenq-Neng Hwang, Gaoang Wang$^\dagger$  
+  [`paper`](https://arxiv.org/abs/2303.16456)
 
 - **Blind Inpainting with Object-aware Discrimination for Artificial Marker Removal**  
   Xuechen Guo, Wenhao Hu, Chiming Ni, **Wenhao Chai**, Shiyan Li, Gaoang Wang$^\dagger$   
