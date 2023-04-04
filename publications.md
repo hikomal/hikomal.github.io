@@ -7,6 +7,11 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 
 **2023**
 
+- **Image Reference-guided Fashion Design with Structure-aware Transfer by Diffusion Models**  
+  Shidong Cao$$^*$$, **Wenhao Chai**$$^*$$, Shengyu Hao, Yanting Zhang, Hangyue Chen$^\dagger$, Gaoang Wang$^\dagger$   
+  *6th Workshop on Computer Vision for Fashion, Art, and Design at CVPR 2023*  
+  [`paper`](https://arxiv.org/abs/2302.06826)
+
 - **Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation**   
   **Wenhao Chai**, Zhongyu Jiang, Jenq-Neng Hwang, Gaoang Wang$^\dagger$  
   [`paper`](https://arxiv.org/abs/2303.16456)
