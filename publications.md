@@ -7,9 +7,9 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 
 **2023**
 
-- **Image Reference-guided Fashion Design with Structure-aware Transfer by Diffusion Models**  
+- **[CVPRW 2023] Image Reference-guided Fashion Design with Structure-aware Transfer by Diffusion Models**  
   Shidong Cao$$^*$$, **Wenhao Chai**$$^*$$, Shengyu Hao, Yanting Zhang, Hangyue Chen$^\dagger$, Gaoang Wang$^\dagger$   
-  *6th Workshop on Computer Vision for Fashion, Art, and Design at CVPR 2023*  
+  *CVPR 2023 6th Workshop on Computer Vision for Fashion, Art, and Design*  
   [`paper`](https://arxiv.org/abs/2302.06826)
 
 - **Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation**   
@@ -20,7 +20,7 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
   Xuechen Guo, Wenhao Hu, Chiming Ni, **Wenhao Chai**, Shiyan Li, Gaoang Wang$^\dagger$   
   [`paper`](https://arxiv.org/abs/2303.15124)
 
-- **[T-AI] Deep Learning Methods for Small Molecule Drug Discovery: A Survey**  
+- **[IEEE TAI] Deep Learning Methods for Small Molecule Drug Discovery: A Survey**  
   Wenhao Hu$$^*$$, Yingying Liu$$^*$$, Xuanyu Chen, **Wenhao Chai**, Hangyue Chen, Hongwei Wang$^\dagger$, Gaoang Wang$$^\dagger$$   
   *IEEE Transactions on Artificial Intelligence*  
   [`paper`](https://arxiv.org/abs/2303.00313)
