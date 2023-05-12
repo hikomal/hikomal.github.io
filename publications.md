@@ -13,6 +13,9 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 - **PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Enhanced 3D Human Pose Estimation**  
   Hanbing Liu, Jun-Yan He, Zhi-Qi Cheng, Wangmeng Xiang, Qize Yang, **Wenhao Chai**, Gaoang Wang, Xu Bao, Bin Luo, Yifeng Geng, Xuansong Xie  
 
+- **StableVideo: Text-driven Consistency-aware Diffusion Video Editing**  
+  **Wenhao Chai**, Xun Guo, Gaoang Wang, Yan Lu 
+
 - **[CVPRW 2023] Image Reference-guided Fashion Design with Structure-aware Transfer by Diffusion Models**  
   Shidong Cao$$^*$$, **Wenhao Chai**$$^*$$, Shengyu Hao, Yanting Zhang, Hangyue Chen$^\dagger$, Gaoang Wang$^\dagger$   
   *CVPR 2023 6th Workshop on Computer Vision for Fashion, Art, and Design*  
