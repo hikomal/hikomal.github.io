@@ -7,6 +7,12 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 
 **2023**
 
+- **Sequential Affinity Learning for Video Restoration**  
+  Tian Ye, SiXiang Chen, Yun Liu, **Wenhao Chai**, Jinbin Bai, Wenbin Zou, Yunchen Zhang, jiang mingchao, Erkang Chen, Chenghao Xue 
+
+- **PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Enhanced 3D Human Pose Estimation**  
+  Hanbing Liu, Jun-Yan He, Zhi-Qi Cheng, Wangmeng Xiang, Qize Yang, **Wenhao Chai**, Gaoang Wang, Xu Bao, Bin Luo, Yifeng Geng, Xuansong Xie  
+
 - **[CVPRW 2023] Image Reference-guided Fashion Design with Structure-aware Transfer by Diffusion Models**  
   Shidong Cao$$^*$$, **Wenhao Chai**$$^*$$, Shengyu Hao, Yanting Zhang, Hangyue Chen$^\dagger$, Gaoang Wang$^\dagger$   
   *CVPR 2023 6th Workshop on Computer Vision for Fashion, Art, and Design*  
