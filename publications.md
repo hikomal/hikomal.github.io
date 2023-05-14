@@ -8,7 +8,7 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 **2023**
 
 - **Five A+ Network: You Only Need 9K Parameters for Underwater Image Enhancement**  
-  JingXia Jiang, Tian Ye, Sixiang Chen, Erkang Chen, Yun Liu, Shi Jun, Jinbin Bai, **Wenhao Chai**
+  JingXia Jiang, Tian Ye, Sixiang Chen, Erkang Chen, Yun Liu, Shi Jun, Jinbin Bai, **Wenhao Chai**    
   [`paper`]()   
 
 - **Sequential Affinity Learning for Video Restoration**  
