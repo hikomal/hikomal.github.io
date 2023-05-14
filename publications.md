@@ -8,11 +8,11 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 **2023**
 
 - **Five A+ Network: You Only Need 9K Parameters for Underwater Image Enhancement**  
-  JingXia Jiang, Tian Ye, Sixiang Chen, Erkang Chen, Yun Liu, Shi Jun, Jinbin Bai, **Wenhao Chai**    
+  Jingxia Jiang, Tian Ye, Sixiang Chen, Erkang Chen, Yun Liu, Shi Jun, Jinbin Bai, **Wenhao Chai**    
   [`paper`]()   
 
 - **Sequential Affinity Learning for Video Restoration**  
-  Tian Ye, SiXiang Chen, Yun Liu, **Wenhao Chai**, Jinbin Bai, Wenbin Zou, Yunchen Zhang, jiang mingchao, Erkang Chen, Chenghao Xue   
+  Tian Ye, Sixiang Chen, Yun Liu, **Wenhao Chai**, Jinbin Bai, Wenbin Zou, Yunchen Zhang, Jiang Mingchao, Erkang Chen, Chenghao Xue   
   [`paper`]()
 
 - **PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Enhanced 3D Human Pose Estimation**  
