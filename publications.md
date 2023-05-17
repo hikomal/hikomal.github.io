@@ -7,6 +7,10 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 
 **2023**
 
+- **Learning Action Tokens via Video Diffusion Models**  
+  **Wenhao Chai**, Xun Guo, Gaoang Wang, Yan Lu   
+  [`paper`]()
+
 - **Five A+ Network: You Only Need 9K Parameters for Underwater Image Enhancement**  
   Jingxia Jiang, Tian Ye, Jinbin Bai, Sixiang Chen, **Wenhao Chai**, Jun Shi, Yun Liu, Erkang Chen  
   [`paper`](https://arxiv.org/abs/2305.08824)   
