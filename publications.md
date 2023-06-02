@@ -7,15 +7,15 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 
 **2023**
 
-- **Unsupervised Domain Adaptation Approach for Vision-based Semantic Understanding of Bridge Inspection Scenes without Manual Annotations**\
-  Yasutaka Narazaki, Wendong Pang, Gaoang Wang, **Wenhao Chai**
+- **Unsupervised Domain Adaptation Approach for Vision-based Semantic Understanding of Bridge Inspection Scenes without Manual Annotations**  
+  Yasutaka Narazaki$^\dagger$, Wendong Pang, Gaoang Wang, **Wenhao Chai**
 
-- **Learning Action Tokens via Video Diffusion Models**\
+- **Learning Action Tokens via Video Diffusion Models**  
   **Wenhao Chai**, Xun Guo, Gaoang Wang, Yan Lu   
 
-- **Five A+ Network: You Only Need 9K Parameters for Underwater Image Enhancement**\ 
-  Jingxia Jiang, Tian Ye, Jinbin Bai, Sixiang Chen, **Wenhao Chai**, Jun Shi, Yun Liu, Erkang Chen\
-  *arXiv Preprint.*\
+- **Five A+ Network: You Only Need 9K Parameters for Underwater Image Enhancement**  
+  Jingxia Jiang, Tian Ye, Jinbin Bai, Sixiang Chen, **Wenhao Chai**, Jun Shi, Yun Liu, Erkang Chen  
+  *arXiv Preprint.*  
   [`paper`](https://arxiv.org/abs/2305.08824)   
 
 - **Sequential Affinity Learning for Video Restoration**  
@@ -49,6 +49,7 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 
 - **DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models**   
   Shidong Cao$$^*$$, **Wenhao Chai**$$^*$$, Shengyu Hao, Yanting Zhang, Hangyue Chen$^\dagger$, Gaoang Wang$^\dagger$   
+  *arXiv Preprint.*  
   [`paper`](https://arxiv.org/abs/2302.06826)
   [`code`](https://github.com/Rem105-210/DiffFashion)
 
@@ -68,16 +69,13 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
   [`dataset`](https://github.com/rese1f/VideoFightDetection)
 
 
-- **Deep Vision Multimodal Learning: Methodology, Benchmark, and Trend**
-
-  **Wenhao Chai**, Gaoang Wang$^\dagger$
-
-  *Applied Sciences*
-  
+- **Deep Vision Multimodal Learning: Methodology, Benchmark, and Trend**  
+  **Wenhao Chai**, Gaoang Wang$^\dagger$  
+  *Applied Sciences*  
   [`paper`](https://www.mdpi.com/2076-3417/12/13/6588)
 
 
-$^*$ Equal contribution.
+$^*$ Equal contribution.  
 $^\dagger$ Corresponding author.
 
 **Academic Service**
