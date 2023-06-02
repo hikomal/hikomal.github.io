@@ -7,25 +7,25 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 
 **2023**
 
+- **Unsupervised Domain Adaptation Approach for Vision-based Semantic Understanding of Bridge Inspection Scenes without Manual Annotations**\
+  Yasutaka Narazaki, Wendong Pang, Gaoang Wang, **Wenhao Chai**\
+
 - **Learning Action Tokens via Video Diffusion Models**  
   **Wenhao Chai**, Xun Guo, Gaoang Wang, Yan Lu   
-  [`paper`]()
 
 - **Five A+ Network: You Only Need 9K Parameters for Underwater Image Enhancement**  
   Jingxia Jiang, Tian Ye, Jinbin Bai, Sixiang Chen, **Wenhao Chai**, Jun Shi, Yun Liu, Erkang Chen  
+  *arXiv Preprint.*
   [`paper`](https://arxiv.org/abs/2305.08824)   
 
 - **Sequential Affinity Learning for Video Restoration**  
   Tian Ye, Sixiang Chen, Yun Liu, **Wenhao Chai**, Jinbin Bai, Wenbin Zou, Yunchen Zhang, Jiang Mingchao, Erkang Chen, Chenghao Xue   
-  [`paper`]()
 
 - **PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Enhanced 3D Human Pose Estimation**  
   Hanbing Liu, Jun-Yan He, Zhi-Qi Cheng, Wangmeng Xiang, Qize Yang, **Wenhao Chai**, Gaoang Wang, Xu Bao, Bin Luo, Yifeng Geng, Xuansong Xie  
-  [`paper`]()
 
 - **StableVideo: Text-driven Consistency-aware Diffusion Video Editing**  
   **Wenhao Chai**, Xun Guo, Gaoang Wang, Yan Lu   
-  [`paper`]()
 
 - **[CVPRW 2023] Image Reference-guided Fashion Design with Structure-aware Transfer by Diffusion Models**  
   Shidong Cao$$^*$$, **Wenhao Chai**$$^*$$, Shengyu Hao, Yanting Zhang, Hangyue Chen$^\dagger$, Gaoang Wang$^\dagger$   
@@ -34,10 +34,12 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
 
 - **Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation**   
   **Wenhao Chai**, Zhongyu Jiang, Jenq-Neng Hwang, Gaoang Wang$^\dagger$  
+  *arXiv Preprint.*
   [`paper`](https://arxiv.org/abs/2303.16456)
 
 - **Blind Inpainting with Object-aware Discrimination for Artificial Marker Removal**  
   Xuechen Guo, Wenhao Hu, Chiming Ni, **Wenhao Chai**, Shiyan Li, Gaoang Wang$^\dagger$   
+  *arXiv Preprint.*
   [`paper`](https://arxiv.org/abs/2303.15124)
 
 - **[IEEE TAI] Deep Learning Methods for Small Molecule Drug Discovery: A Survey**  
@@ -66,10 +68,10 @@ Also in my <a href="https://scholar.google.com/citations?user=SL--7UMAAAAJ&hl=en
   [`dataset`](https://github.com/rese1f/VideoFightDetection)
 
 
-- **Deep Vision Multimodal Learning: Methodology, Benchmark, and Trend**   
-  **Wenhao Chai**, Gaoang Wang$^\dagger$  
-  *Applied Sciences*  
-  [`paper`](https://www.mdpi.com/2076-3417/12/13/6588)
+- **Deep Vision Multimodal Learning: Methodology, Benchmark, and Trend**\
+  **Wenhao Chai**, Gaoang Wang$^\dagger$\
+  *Applied Sciences*\
+  [`paper`](https://www.mdpi.com/2076-3417/12/13/6588)\
 
 
 $^*$ Equal contribution.
