@@ -25,6 +25,7 @@ description: Personal Website
 navbar-links:
   Home: ""
   Publications: "publications"
+  Services: "services"
   # Blog: "blog"
   # Travel Map: "map"
   # Resume: "resume"
