@@ -25,7 +25,7 @@ description:
 navbar-links:
   Home: ""
   Publications: "publications"
-  Projects: "projects"
+  # Projects: "projects"
   # People: "people"
   Services: "services"
 
